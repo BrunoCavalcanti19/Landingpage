@@ -1,0 +1,254 @@
+
+[{
+  "sigla": "AL",
+  "nome": "Alagoas",
+  "cidades": [
+    "Arapiraca",
+    "Maceió"
+]
+},
+{
+  "sigla": "BA",
+  "nome": "Bahia",
+  "cidades": [
+    "Feira de Santana",
+    "Itabuna",
+    "Ilhéus",
+    "Lauro de Freitas",
+    "Teixeira de Freitas",
+    "Vitória da Conquista"
+]
+},
+{
+  "sigla": "CE",
+  "nome": "Ceará",
+  "cidades": [
+    "Crato",
+    "Fortaleza",
+    "Juazeiro do Norte"
+]
+},
+{
+  "sigla": "DF",
+  "nome": "Distrito Federal",
+  "cidades": [
+    "Brasília"
+]
+},
+{
+  "sigla": "ES",
+  "nome": "Espírito Santo",
+  "cidades": [
+    "Cachoeiro do Itapemirim",
+    "Cariacica",    
+    "Vila Velha",
+    "Vitória"
+]
+},
+{
+  "sigla": "GO",
+  "nome": "Goiás",
+  "cidades": [
+    "Aparecida de Goiânia",
+    "Anápolis",
+    "Rio Verde"
+]
+},
+{
+  "sigla": "MA",
+  "nome": "Maranhão",
+  "cidades": [
+    "Caxias"
+]
+},
+{
+  "sigla": "MG",
+  "nome": "Minas Gerais",
+  "cidades": [
+    "Barbacena",
+    "Belo Horizonte",
+    "Betim",
+    "Contagem",
+    "Divinópolis",
+    "Governador Valadares",
+    "Itaúna",
+    "Montes Claros",
+    "Nova Lima",
+    "Paracatu",
+    "Poços de Caldas",
+    "Pouso Alegre",
+    "Sete Lagoas",
+    "Teófilo Otoni",
+    "Uberaba",
+    "Uberlândia",
+    "Varginha"
+]
+},
+{
+  "sigla": "MS",
+  "nome": "Mato Grosso do Sul",
+  "cidades": [
+    "Campo Grande",
+    "Dourados",
+    "Três Lagoas"
+]
+},
+{
+  "sigla": "MT",
+  "nome": "Mato Grosso",
+  "cidades": [
+    "Barra do Garças",
+    "Rondonópolis",
+    "Sinop",
+    "Tangará da Serra",
+    "Várzea Grande"
+]
+},
+{
+  "sigla": "PA",
+  "nome": "Pará",
+  "cidades": [
+    "Ananindeua",
+    "Castanhal"
+]
+},
+{
+  "sigla": "PB",
+  "nome": "Paraíba",
+  "cidades": [
+    "Cajazeiras",
+    "João Pessoa"
+]
+},
+{
+  "sigla": "PE",
+  "nome": "Pernambuco",
+  "cidades": [
+    "Caruaru",
+    "Garanhuns",
+    "Jaboatão dos Guararapes",
+    "Olinda",
+    "Paulista"
+]
+},
+{
+  "sigla": "PI",
+  "nome": "Piauí",
+  "cidades": [
+    "Picos",
+    "Teresina"
+]
+},
+{
+  "sigla": "PR",
+  "nome": "Paraná",
+  "cidades": [
+    "Cascavel",
+    "Curitiba",
+    "Foz do Iguaçu",
+    "Guarapuava",
+    "Londrina",
+    "Maringá",
+    "Ponta Grossa",
+    "Umuarama"
+]
+},
+{
+  "sigla": "RJ",
+  "nome": "Rio de Janeiro",
+  "cidades": [
+    "Barra Mansa",
+    "Cabo Frio",
+    "Campos dos Goytacazes",
+    "Duque de Caxias",
+    "Itaperuna",
+    "Macaé",
+    "Niterói",
+    "Nova Friburgo",
+    "Nova Iguaçu",
+    "Petrópolis",
+    "São Gonçalo",
+    "Volta Redonda"
+]
+},
+{
+  "sigla": "RN",
+  "nome": "Rio Grande do Norte",
+  "cidades": [
+    "Mossoró",
+    "Natal"
+]
+},
+{
+  "sigla": "RO",
+  "nome": "Rondônia",
+  "cidades": [
+    "Cacoal"
+]
+},
+{
+  "sigla": "RS",
+  "nome": "Rio Grande do Sul",
+  "cidades": [
+    "Caxias do Sul",
+    "Lajeado",
+    "Novo Hamburgo",
+    "Passo Fundo",
+    "Rio Grande",
+    "Santa Cruz do Sul",
+    "Santa Maria",
+    "Santo Ângelo",
+    "São Leopoldo"
+]
+},
+{
+  "sigla": "SC",
+  "nome": "Santa Catarina",
+  "cidades": [
+    "Balneário Camboriú",
+    "Blumenau",
+    "Chapecó",
+    "Criciúma",
+    "Itajaí",
+    "Lages",
+    "São José",
+    "Tubarão"
+]
+},
+{
+  "sigla": "SP",
+  "nome": "São Paulo",
+  "cidades": [
+    "Araçatuba",
+    "Araraquara",
+    "Assis",
+    "Campinas",
+    "Carapicuíba",
+    "Franca",
+    "Guarulhos",
+    "Jundiaí",
+    "Lorena",
+    "Marília",
+    "Mogi das Cruzes",
+    "Osasco",
+    "Ourinhos",
+    "Piracicaba",
+    "Santana de Parnaíba",
+    "Santo André",
+    "Santos",
+    "São Bernardo do Campo",
+    "São Caetano do Sul",
+    "São João da Boa Vista",
+    "São Paulo",
+    "Sorocaba",
+    "Taubaté"
+]
+},
+{
+  "sigla": "TO",
+  "nome": "Tocantins",
+  "cidades": [
+    "Araguaína",
+    "Palmas"
+]
+}]
